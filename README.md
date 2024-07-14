@@ -9,7 +9,7 @@
 ## Repository Contents
 
 - `The Adventures of Alpha Bunny - The Value of Loving Kindness.epub`: The compiled e-book file.
-- `The Adventures of Alpha Bunny - The Value - Arthur Alkimim.pdf`: PDF version of the book.
+- `The Adventures of Alpha Bunny - The Value of Loving Kindness.pdf`: PDF version of the book.
 - `LICENSE`: MIT License file.
 - `src/`: Source files directory
     - `index.html`: Main HTML file for the web version
