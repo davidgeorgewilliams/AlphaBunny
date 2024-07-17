@@ -29,7 +29,15 @@ This project is open-source and provided under the MIT License. We encourage con
 
 ## Publishing
 
-This book will be available on Amazon Kindle Direct Publishing. The open-source nature of this project allows for transparency in the creation process and provides an opportunity for community involvement.
+"The Adventures of Alpha Bunny: The Value of Loving Kindness" is now available on Amazon Kindle Direct Publishing:
+
+[Amazon Kindle Store - The Adventures of Alpha Bunny](https://www.amazon.com/dp/B0D9M9493N/)
+
+While the book is commercially available, the open-source nature of this project allows for 
+transparency in the creation process and provides an opportunity for community involvement. We 
+encourage readers, educators, and developers to explore the source materials, suggest 
+improvements, and adapt the content for educational purposes, all within the terms of the 
+MIT License.
 
 ## How to Use This Repository
 
